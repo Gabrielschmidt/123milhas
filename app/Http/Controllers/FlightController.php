@@ -29,7 +29,6 @@ class FlightController extends Controller
             $ida_ordenada = [];
             $volta_ordenada = [];
             $id_group = 0;
-            $group_menor_preco = 0;
 
             $json_return = [];
 
